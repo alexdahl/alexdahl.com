@@ -92,6 +92,7 @@ h4 {
 
 header {
   position: relative;
+  margin-bottom: 3em;
 }
 header .profile {
   position: relative;
@@ -112,7 +113,7 @@ header .profile .button {
 }
 
 .portfolio {
-  margin: 3em 0;
+  margin: 0 0 3em;
   text-align: left;
 }
 ul.portfolio-list {
